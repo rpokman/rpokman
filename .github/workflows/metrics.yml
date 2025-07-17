@@ -12,7 +12,11 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
+          # Token pour lecture et génération
           token: ${{ secrets.METRICS_TOKEN }}
+          # Token pour effectuer les commits dans le dépôt
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+
           user: rpokman
           template: classic
           base: languages
@@ -22,3 +26,7 @@ jobs:
           plugin_languages_ignored: ""
           plugin_languages_limit: 10
           plugin_languages_indepth: yes
+
+          # Enregistrement automatique dans le repo
+          output_action: commit
+          output_path: .
