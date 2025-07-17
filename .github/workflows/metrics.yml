@@ -1,9 +1,9 @@
 name: Metrics
-
 on:
-  schedule:
-    - cron: "0 6 * * *"
+  schedule: [{ cron: "0 0 * * 0" }]
   workflow_dispatch:
+  push:
+    branches: ["main"]
 
 jobs:
   github-metrics:
@@ -12,21 +12,12 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Token pour lecture et génération
+          # Authentification
           token: ${{ secrets.METRICS_TOKEN }}
-          # Token pour effectuer les commits dans le dépôt
-          committer_token: ${{ secrets.METRICS_TOKEN }}
 
+          # Configuration générale
           user: rpokman
           template: classic
-          base: languages
+          base: header, languages
           config_timezone: Europe/Paris
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_ignored: ""
-          plugin_languages_limit: 10
-          plugin_languages_indepth: yes
-
-          # Enregistrement automatique dans le repo
-          output_action: commit
-          output_path: .
+          config_output: svg
