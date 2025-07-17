@@ -1,39 +1,23 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * 0" }] # Chaque dimanche à minuit
-  workflow_dispatch:               # Permet le déclenchement manuel
+  schedule: [{ cron: "0 8 * * *" }]
+  workflow_dispatch:
   push:
-    branches: ["main"]
+    paths:
+      - .github/workflows/metrics.yml
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          # Authentification
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Configuration générale
-          user: rpokman
-          template: classic
-          base: header, languages
-          config_timezone: Europe/Paris
-          config_output: svg
-          config_display: large
-          config_padding: 0, 8 + 11%
-          config_order: base, languages
-          config_twemoji: yes
-          config_gemoji: yes
-          config_octicon: no
-          config_animations: yes
-          config_theme: github-dark
-
-          # Plugin des langages en cercle
+          base: header, repositories
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
-          plugin_languages_display: pie
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
+          plugin_languages_ignored: >-
+            html, css
