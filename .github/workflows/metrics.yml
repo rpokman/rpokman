@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * 0" }]
-  workflow_dispatch:
+  schedule: [{ cron: "0 0 * * 0" }] # Chaque dimanche à minuit
+  workflow_dispatch:               # Permet le déclenchement manuel
   push:
     branches: ["main"]
 
@@ -21,3 +21,19 @@ jobs:
           base: header, languages
           config_timezone: Europe/Paris
           config_output: svg
+          config_display: large
+          config_padding: 0, 8 + 11%
+          config_order: base, languages
+          config_twemoji: yes
+          config_gemoji: yes
+          config_octicon: no
+          config_animations: yes
+          config_theme: github-dark
+
+          # Plugin des langages en cercle
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_display: pie
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
