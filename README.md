@@ -29,5 +29,5 @@
 <hr />
 
 <p align="center">
-  <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="75%">
+  <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="100%">
 </p>
