@@ -1,4 +1,4 @@
-Hello Im rpok, Software Developer student at Holberton School.
+**Hello Im rpok, Software Developer student at Holberton School.**
 
 🔧 **Languages and tools :**
 
