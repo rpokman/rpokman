@@ -1,6 +1,6 @@
 <p>
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZmbm04N3Bja2dlM3hvM2VjOHJwbmExejlzem9yYWl3N3JzMXp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZmbm04N3Bja2dlM3hvM2VjOHJwbmExejlzem9yYWl3N3JzMXp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"><width="50" />
 </div>
 
 **Hello I'm rpok, Software Developer student at Holberton School.**
