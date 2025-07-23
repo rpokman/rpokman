@@ -1,6 +1,6 @@
 **Hello I'm rpok, Software Developer student at Holberton School.**
 
-# 🔧 **Languages and tools :**
+## 🔧 **Languages and tools :**
 
 <div style="height: 2px; background-color: #b37fff; width: 100%; margin: 20px 0;"></div>
 
