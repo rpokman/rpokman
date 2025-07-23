@@ -4,8 +4,9 @@
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"width="50" />
 </div>
 
 <p align="center">
-  <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="100%">
+  <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="75%">
 </p>
