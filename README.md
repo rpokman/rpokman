@@ -1,5 +1,6 @@
-<div>
-<img src="https://giphy.com/gifs/pudgypenguins-penguin-pudgy-pengu-LD2ZJ0pdNmCxFikNQ5" width="50" />
+<p>
+<div align="center">
+<img src="https://giphy.com/gifs/pudgypenguins-penguin-pudgy-pengu-LD2ZJ0pdNmCxFikNQ5">
 </div>
 
 **Hello I'm rpok, Software Developer student at Holberton School.**
