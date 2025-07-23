@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="400" />
 </div>
 
-<hr style="border: 1px solid #b37fff; width: 100%; margin: 20px 0;" />
+<div style="height: 2px; background-color: #b37fff; width: 100%; margin: 20px 0;"></div>
 
 <p align="center">
   <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="75%">
