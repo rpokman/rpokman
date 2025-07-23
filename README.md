@@ -2,15 +2,16 @@
 
 ## 🔧 **Languages and tools :**
 
+<hr />
+
 <div style="height: 2px; background-color: #b37fff; width: 100%; margin: 20px 0;"></div>
 
-<!-- Icônes de langages -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" />
 </div>
 
-<div style="height: 2px; background-color: #b37fff; width: 100%; margin: 20px 0;"></div>
+<hr />
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="400" />
