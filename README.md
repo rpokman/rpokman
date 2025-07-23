@@ -5,5 +5,5 @@
 </div>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="100%">
 </p>
