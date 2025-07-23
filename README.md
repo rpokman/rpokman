@@ -1,12 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
+🔧 **Langages & outils :**
 
-<p align="center">
-  I'm <strong>rpokman</strong>, a developer who loves serious code with a creative twist 💡
-</p>
-
----
-
-## 📊 My GitHub Metrics
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" />
+</div>
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
