@@ -7,12 +7,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="50" />
 </div>
 
-<h2><strong>📊 Contributions par langage :</strong></h2>
+<h2><strong>📊</strong></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpokman&layout=pie&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="400" />
 </div>
-
-
 
 
 
