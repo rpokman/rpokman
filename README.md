@@ -1,6 +1,6 @@
 **Hello Im rpok, Software Developer student at Holberton School.**
 
-🔧 **Languages and tools :**
+# 🔧 **Languages and tools :**
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" />
