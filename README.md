@@ -8,6 +8,7 @@
 
 <hr />
 
+<h2><img src="https://icons.veryicon.com/png/o/weather/yochie-icons/me-8.png"/> About me :</h2>
 **Hello I'm rpok, Software Developer student at Holberton School.**
 
 <h2><img src="https://img.icons8.com/ios-filled/20/ffffff/wrench.png"/> Languages and tools :</h2>
