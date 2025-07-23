@@ -1,18 +1,16 @@
-<p>
-<h1 style="bold", align="center">Welcome to my GitHub profile !</h1>
-<p>
+<h1 align="center"><strong>Welcome to my GitHub profile !</strong></h1>
+
 <hr />
+
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZmbm04N3Bja2dlM3hvM2VjOHJwbmExejlzem9yYWl3N3JzMXp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"><width="30" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZmbm04N3Bja2dlM3hvM2VjOHJwbmExejlzem9yYWl3N3JzMXp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="300" />
 </div>
 
 <hr />
 
 **Hello I'm rpok, Software Developer student at Holberton School.**
 
-## 🔧 **Languages and tools :**
-
-<hr />
+<h2><img src="https://img.icons8.com/ios-filled/20/ffffff/wrench.png"/> Languages and tools :</h2>
 
 <div style="height: 2px; background-color: #b37fff; width: 100%; margin: 20px 0;"></div>
 
