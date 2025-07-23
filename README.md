@@ -14,6 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="400" />
 </div>
 
+<hr style="border: 1px solid #444; width: 100%; margin: 20px 0;" />
+
 <p align="center">
   <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="75%">
 </p>
