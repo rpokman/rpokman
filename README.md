@@ -24,8 +24,8 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
 
 <div style="margin-top: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" alt="C language"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="50" alt="C#"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git"/>
 </div>
 
 ---
