@@ -15,8 +15,8 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
 ---
 
 ## 🌍 Languages  
-- 🇫🇷 [Français](#-français)  
-- 🇬🇧 [English](#-english)  
+- 🇫🇷 [Français]
+- 🇬🇧 [English] 
 
 ---
 
