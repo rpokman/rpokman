@@ -8,31 +8,33 @@
 
 <hr />
 
-<h2>👤 About me :</h2>
-Hello I'm rpok, Software Developer student at Holberton School.
-## 🌍 Languages
-- 🇫🇷 [Français](#français)
-- 🇬🇧 [English](#english)
+## 👤 About me
 
+Hello, I'm **rpok**, a Software Developer student at Holberton School.
 
-<h2><img src="https://img.icons8.com/ios-filled/20/ffffff/wrench.png"/> Languages and tools :</h2>
+---
 
-<div style="height: 2px; background-color: #b37fff; width: 100%; margin: 20px 0;"></div>
+## 🌍 Languages  
+- 🇫🇷 [Français](#-français)  
+- 🇬🇧 [English](#-english)  
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" />
+---
+
+## 🛠️ Languages and Tools
+
+<div style="margin-top: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" alt="C language"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git"/>
 </div>
 
-<hr />
+---
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="400" />
 </div>
-
-<hr />
-
 <p align="center">
   <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="100%">
 </p>
