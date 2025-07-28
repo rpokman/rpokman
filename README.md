@@ -10,8 +10,10 @@
 
 <h2>👤 About me :</h2>
 Hello I'm rpok, Software Developer student at Holberton School.
-🇫🇷 Français  
-🇬🇧 English
+## 🌍 Languages
+- 🇫🇷 [Français](#français)
+- 🇬🇧 [English](#english)
+
 
 <h2><img src="https://img.icons8.com/ios-filled/20/ffffff/wrench.png"/> Languages and tools :</h2>
 
