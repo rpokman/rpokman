@@ -35,6 +35,9 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
   <img src="https://github-readme-stats.vercel.app/api?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="400" />
 </div>
+
+---
+
 <p align="center">
   <img src="https://github.com/rpokman/rpokman/blob/main/code.png" width="100%">
 </p>
