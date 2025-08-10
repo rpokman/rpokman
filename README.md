@@ -45,8 +45,8 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpokman&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&cache_seconds=3600" width="400" />
 </div>
 
 ---
