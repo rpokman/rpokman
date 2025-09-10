@@ -29,17 +29,16 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
 
 ### 🟡 Intermediate
 <div style="margin-top: 10px;">
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="PY"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git"/>
 </div>
 
 ### 🔴 Learning
 <div style="margin-top: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="PY"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="50" alt="C#"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="50" alt="UNITY"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
 </div>
 
 ---
