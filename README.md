@@ -39,6 +39,7 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="50" alt="UNITY"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="JS"/>
 </div>
 
 ---
