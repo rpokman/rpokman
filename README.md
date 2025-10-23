@@ -30,6 +30,7 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
 ### 🟡 Intermediate
 <div style="margin-top: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="PY"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-plain.svg" width="50" alt="SQL"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git"/>
 </div>
 
