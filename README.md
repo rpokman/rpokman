@@ -44,7 +44,7 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="JS" title="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="50" alt="UML" title="UML"/>
   <img src="https://cdn.phaser.io/images/logo/phaser-planet-web.png" width="50" alt="Phaser" title="Phaser"/>
-</div>
+</div>---
 
 ## 📊 GitHub Stats
 
