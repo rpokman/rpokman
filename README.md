@@ -24,31 +24,27 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
 
 ### 🟢 Expert
 <div style="margin-top: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" alt="C language"/>
-</div>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" alt="C language" title="C"/>
 ### 🟡 Intermediate
 <div style="margin-top: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="PY"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" alt="Sql Lite"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="50" alt="Flask"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="50" alt="sqlalchemy"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="PY" title="Python"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" alt="Sql Lite" title="SQLite"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="50" alt="Flask" title="Flask"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="50" alt="sqlalchemy" title="SQLAlchemy"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
 </div>
 
 ### 🔴 Learning
 <div style="margin-top: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="50" alt="C#"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="50" alt="UNITY"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="JS"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="50" alt="UML"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="50" alt="C#" title="C#"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="50" alt="UNITY" title="Unity"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="HTML5" title="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3" title="CSS3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="JS" title="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="50" alt="UML" title="UML"/>
   <img src="https://cdn.phaser.io/images/logo/phaser-planet-web.png" width="50" alt="Phaser" title="Phaser"/>
-</div>
-
----
+</div>---
 
 ## 📊 GitHub Stats
 
