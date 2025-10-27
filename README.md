@@ -35,6 +35,8 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="50" alt="sqlalchemy" title="SQLAlchemy"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
+</div>
+
 ### 🔴 Learning
 <div style="margin-top: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="50" alt="C#" title="C#"/>
