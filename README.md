@@ -33,7 +33,7 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-plain.svg" width="50" alt="SQL"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="50" alt="Flask"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git" title="Git" width="36" height="36"/>
 </div>
 
 ### 🔴 Learning
