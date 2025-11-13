@@ -25,11 +25,11 @@ Hello, I'm **rpok**, a Software Developer student at Holberton School.
 ### 🟢 Expert
 <div style="margin-top: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" alt="C language" title="C"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="PY" title="Python"/>
 </div>
 
 ### 🟡 Intermediate
 <div style="margin-top: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="PY" title="Python"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="HTML5" title="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3" title="CSS3"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" alt="Sql Lite" title="SQLite"/>
